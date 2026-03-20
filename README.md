@@ -1,2 +1,2 @@
-# java
-java spel
+# java script
+JS spel
